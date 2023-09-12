@@ -1,4 +1,4 @@
-#Question 3
+# 3
 #Aryan Vashistha
 import pandas as pd 
 import matplotlib.pyplot as plt 
